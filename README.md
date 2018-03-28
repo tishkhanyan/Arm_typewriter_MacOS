@@ -15,4 +15,4 @@ More info about Armenian Typewriter Keyboard: https://hy.wikipedia.org/wiki/Վի
 
 
 
-Made by Ukelele.
+Made with Ukelele version 3.2.7.195 on 2018-03-28 by TTG.
